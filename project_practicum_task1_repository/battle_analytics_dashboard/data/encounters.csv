@@ -1,0 +1,5 @@
+id,date,gm,location,result
+1,2025-01-10,GM1,Dungeon,Victory
+2,2025-01-12,GM1,Forest,Defeat
+3,2025-01-15,GM2,Ruins,Victory
+4,2025-01-18,GM2,Cave,Draw

@@ -1,0 +1,7 @@
+
+dash
+pandas
+plotly
+pytest
+playwright
+locust
